@@ -4,27 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9d24f98-58b0-4b95-89df-6410d781915b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hotel Reservation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HotelApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/AdminResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/HotelResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/menus/AdminMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/menus/MainMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/FreeRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/IRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Reservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/RoomType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/ReservationService.java" afterDir="false" />
+    <list default="true" id="b9d24f98-58b0-4b95-89df-6410d781915b" name="Changes" comment="Udacity Swift Tech Scholarship, DevOps with Java: Hotel Registration app assignment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,14 +32,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="HotelApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HotelApplication" />
@@ -88,6 +69,18 @@
       <option name="presentableId" value="Default" />
       <updated>1682089352877</updated>
     </task>
+    <task id="LOCAL-00001" summary="Udacity Swift Tech Scholarship, DevOps with Java: Hotel Registration app assignment">
+      <created>1682598895069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682598895069</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Udacity Swift Tech Scholarship, DevOps with Java: Hotel Registration app assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Udacity Swift Tech Scholarship, DevOps with Java: Hotel Registration app assignment" />
   </component>
 </project>
